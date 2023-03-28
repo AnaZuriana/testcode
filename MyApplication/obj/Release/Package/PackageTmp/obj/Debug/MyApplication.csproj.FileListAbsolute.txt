@@ -1,0 +1,6 @@
+C:\workplace\MyApplication\MyApplication\bin\MyApplication.dll.config
+C:\workplace\MyApplication\MyApplication\bin\MyApplication.dll
+C:\workplace\MyApplication\MyApplication\bin\MyApplication.pdb
+C:\workplace\MyApplication\MyApplication\obj\Debug\MyApplication.csprojResolveAssemblyReference.cache
+C:\workplace\MyApplication\MyApplication\obj\Debug\MyApplication.dll
+C:\workplace\MyApplication\MyApplication\obj\Debug\MyApplication.pdb
